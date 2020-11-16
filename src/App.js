@@ -18,7 +18,7 @@ const App = () => {
           </main>
           <footer>
             <p>
-              <a href="https://github.com/" target="_blank" class="btn">View Project on GitHub</a>
+              <a href="https://github.com/sai-karthik-p/Weather-Search" target="_blank" class="btn">View Project on GitHub</a>
             </p>
 
           </footer>
